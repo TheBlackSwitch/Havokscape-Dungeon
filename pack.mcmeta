@@ -1,0 +1,16 @@
+{
+    "id": "dungeon",
+    "pack": {
+        "pack_format": 61,
+        "description": [ 
+            {
+                "text": "A datapack commission adding a dungeon ",
+                "color": "#acd1fa"
+            },
+            {
+                "text": "~by theblackswitch",
+                "color": "gold"
+            }
+        ]
+    }
+}
