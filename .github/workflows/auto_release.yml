@@ -38,7 +38,7 @@ jobs:
           cp pack.mcmeta release/
           cp -r data release/
           cd release
-          zip -r ../pack.zip .
+          zip -r "../Havokscape Datapack.zip" .
           cd ..
 
       - name: Create tag
